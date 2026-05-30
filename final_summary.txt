@@ -1,0 +1,16 @@
+Final summary
+This study examined whether the proportion of current cigarette use differs between male and female students using the YRBS 2007 dataset.
+  • Group variable: WhatIsYourSex (0 = Female and 1 = Male)
+  • Response variable: CurrentCigaretteUse (0 = non-smoker and 1 = current smoker)
+  • Method: Two-proportion z-test
+Key results:
+  • Difference in proportions (p̂_male − p̂_female = 0.043) was positive.
+  • 95% CI did not include 0, suggesting a meaningful difference between the two groups.
+  • The two-proportion z-test produced a p-value (5.14e-10) < 0.05, leading to rejection of the null hypothesis (H₀: p_male = p_female).
+  • Male students had a higher smoking proportion than female students.
+Conclusion:
+  There is sufficient statistical evidence at the 0.05 significance level to conclude that the proportion of current cigarette use differs between male and  
+  female students.
+Final interpretation:
+  Male students have a higher proportion of current cigarette use than female students (p̂_male − p̂_female = 0.043). This difference is statistically  
+  significant (p < 0.05), indicating an association between gender and current cigarette use.
