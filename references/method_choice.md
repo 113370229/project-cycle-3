@@ -1,0 +1,1 @@
+• Method choice: Two-proportion z-test, used to compare the proportions of current cigarette use between male and female students.
