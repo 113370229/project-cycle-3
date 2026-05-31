@@ -1,0 +1,15 @@
+﻿Statistic,Value
+Male Sample Size,6572
+Female Sample Size,6740
+Male Smoking Proportion,0.21576384662203288
+Male Not Smoking Proportion,0.7842361533779671
+Female Smoking Proportion,0.1731454005934718
+Female Not Smoking Proportion,0.8268545994065282
+Difference (Male - Female),0.042618446028561074
+95% CI for Difference,"(0.029183, 0.056054)"
+Hypothesis Test,H0: p_male = p_female ; H1: p_male ≠ p_female
+Z-statistic,6.214820309970149
+P-value,5.138341623910967e-10
+Decision (α = 0.05),Reject H0
+Conclusion at α = 0.05,There is sufficient statistical evidence at the 0.05 significance level to conclude that the proportion of current cigarette use is different between male and female students.
+Interpretation in Context,Male students have a higher proportion of current cigarette use than female students.
